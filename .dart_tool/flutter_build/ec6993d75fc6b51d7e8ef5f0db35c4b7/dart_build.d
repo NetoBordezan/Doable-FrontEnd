@@ -1,0 +1,1 @@
+ C:\\Users\\netob\\Downloads\\Extensao\ 2\\Doable-FrontEnd\\.dart_tool\\flutter_build\\ec6993d75fc6b51d7e8ef5f0db35c4b7\\dart_build_result.json: 

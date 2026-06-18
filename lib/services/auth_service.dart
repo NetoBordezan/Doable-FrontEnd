@@ -4,7 +4,7 @@ import 'package:shared_preferences/shared_preferences.dart';
 import '../models/user_model.dart';
 
 class AuthService {
-  static const String baseUrl = 'http://10.0.2.2:8080';
+  static const String baseUrl = 'https://doable-backend-bd16.onrender.com';
   static const String tokenKey = 'jwt_token';
 
   // Salvar token

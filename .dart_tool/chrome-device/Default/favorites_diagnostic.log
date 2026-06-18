@@ -1,0 +1,26 @@
+2026-06-16 20:05:24.710: [INFO] VisibilityChanged: 0
+2026-06-16 20:05:24.742: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.743: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.745: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.746: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.748: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.750: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.751: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.752: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.753: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.754: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.755: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:24.767: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-06-16 20:05:24.767: [INFO] OnDoneLoading sync enabled: 0
+2026-06-16 20:05:24.810: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:26.670: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 0
+2026-06-16 20:05:26.673: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-06-16 20:05:26.674: [INFO] Primary account changed.
+2026-06-16 20:05:26.674: [INFO] OnPrimaryAccountChanged PrimaryAccountChangeEvent::Type::kSet
+2026-06-16 20:05:26.677: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-06-16 20:05:26.684: [INFO] RecordSyncInitDuration has_sync_been_enabled: 0 state: 3
+2026-06-16 20:05:29.748: [INFO] Sync initialization duration: 2972ms
+2026-06-16 22:24:31.761: [INFO] VisibilityChanged: 0
+2026-06-16 22:24:31.805: [INFO] BookmarkModelLoaded, ids_reassigned: 0
+2026-06-16 22:24:31.805: [INFO] OnDoneLoading sync enabled: 1
+2026-06-16 22:24:38.997: [INFO] Sync initialization duration: 1566ms

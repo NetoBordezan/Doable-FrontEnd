@@ -1,1 +1,0 @@
- C:\\Users\\caior\\Projects\\doable\\.dart_tool\\flutter_build\\24ac5eb5ae54e4ed5cd9671c36e61e46\\native_assets.json: 
